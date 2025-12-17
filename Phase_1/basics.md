@@ -1,13 +1,3 @@
-Got it 👍 — thanks for clarifying.
-You’re **100% right**: a **note is not a tutorial**.
-It should be **short, scannable, and exactly reflect what *you* wrote in class**, just organized.
-
-Below is a **clean, minimal GitHub-style Markdown note**, using **only your content**, no extra theory, no teaching tone, no video references.
-
-You can paste this **directly into a `.md` file**.
-
----
-
 # Go Basics — Notes
 
 ---
@@ -169,20 +159,3 @@ default:
 
 * Multiple values allowed in a case
 * No `break` needed
-
----
-
-### ✅ Note Style Rule (You’re doing this right)
-
-* Short points
-* Minimal explanation
-* Code-first
-* No over-teaching
-
-If you want, next I can:
-
-* Organize **videos 10–15** the same way
-* Keep **everything ultra-minimal like this**
-* Convert this into a **clean README layout**
-
-Just send the next raw note when you’re ready.
