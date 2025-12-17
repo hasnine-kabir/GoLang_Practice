@@ -23,14 +23,6 @@ func main() {
 
 ---
 
-## Comments
-
-* Single-line comment → `//`
-* Multi-line comment → `/* */`
-* Used to disable code or add explanations
-
----
-
 ## Variables & Data Types
 
 ### Multiple Variable Declaration
